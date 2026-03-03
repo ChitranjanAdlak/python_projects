@@ -1,2 +1,3 @@
 # python_projects
-Author Chitranjan Adlak
+
+Author - Chitranjan Adlak(Data scientist)
