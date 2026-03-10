@@ -1,5 +1,5 @@
 # python_projects
-# Python Projects
+
 
 This repository contains my Python practice projects.
 
